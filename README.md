@@ -1,5 +1,5 @@
 # Unity_Ceidmulator
-A 2-day Unity project built by me.
+A 2-day Unity project built by me. It is a comedic game about how tough it is to get past political activists in the university. 
 I coded most of the stuff including items, doors, movements, enemies and other events.    
 
 Links for the game:    
